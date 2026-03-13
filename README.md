@@ -31,6 +31,7 @@ Pealkiri:
 Kirjeldus:
 <br>
 Tulemus:
+<br>
 <img width="471" height="730" alt="Kuvatõmmis 2026-03-13 130055" src="https://github.com/user-attachments/assets/11ffc2cb-cdc7-4ce9-b8c1-e2ab1a7ddcc3" />
 <img width="538" height="220" alt="Kuvatõmmis 2026-03-13 130327" src="https://github.com/user-attachments/assets/e7ff21f4-8dc3-4cec-979d-7ad55bdab9ec" />
 ## 6.
