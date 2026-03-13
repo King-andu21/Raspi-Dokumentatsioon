@@ -25,7 +25,7 @@ Pealkiri: Pingimine (Ülesanne 2)
 Kirjeldus: Loodi pingimise käsk millel oleks 3 erinevat käsku ühes
 <br>
 Tulemus: <img width="818" height="360" alt="Kuvatõmmis 2026-03-13 122610" src="https://github.com/user-attachments/assets/067b9e14-3eef-4937-b050-f3ad32de178c" />
-## 5. tegsdgdlfg (Ülesanne 3)
+## 5. Kataloogid Kataloogides (Ülesanne 3)
 Pealkiri:
 <br>
 Kirjeldus:
