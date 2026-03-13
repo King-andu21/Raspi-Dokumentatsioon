@@ -2,7 +2,9 @@
 
 ## 1.
 Pealkiri: Raspberry PI OS Lite paigaldus
+<br>
 Kirjeldus: Seadme peale "RASPBERRY Pi4" paigaldati operatsiooni süsteem "Raspberry PI OS Lite"
+<br>
 Tulemus: RASPBERRY Pi4 peale sai paigaldatud enda konfiguratsiooniga operatsiooni süsteem
 
 ## 2.
