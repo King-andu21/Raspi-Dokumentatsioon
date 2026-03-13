@@ -19,7 +19,7 @@ Kirjeldus: Loodi pingimise käsk millel oleks 3 erinevat käsku ühes
 Tulemus: <img width="818" height="360" alt="Kuvatõmmis 2026-03-13 122610" src="https://github.com/user-attachments/assets/067b9e14-3eef-4937-b050-f3ad32de178c" />
 <br>
 ## 5. Kataloogid Kataloogides (Ülesanne 3)
-Kirjeldus:
+Kirjeldus: Loodi kaust "Dokumendid" siis loodi 1-50 kausta "Dokumendid" kausta ja "kaust1-50" sisse loodi veel "alamkaustad1-3". Kustutati "kaust3". Kopeeriti "kaust5" uue nimega "kaust5_andre" ja liigutati kaust1'de
 <br>
 Tulemus:
 <br>
