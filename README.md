@@ -14,7 +14,7 @@ Tulemus: Raspberry Pi4'le sai ligi läbi SSH kaudu ja saab jooksutada terminale 
 Kirjeldus: Kasutati käsku "lsblk", et leida kõik partitsioonid
 <br>
 Tulemus: <img width="440" height="133" alt="Kuvatõmmis 2026-03-13 121235" src="https://github.com/user-attachments/assets/99dd6086-61d1-4921-b493-8ac5b32277c7" />
-## 4. Pingimine (Ülesanne 2)
+## 4. Pingimine Ülesanne 2
 Kirjeldus: Loodi pingimise käsk millel oleks 3 erinevat käsku ühes
 <br>
 Tulemus: <img width="818" height="360" alt="Kuvatõmmis 2026-03-13 122610" src="https://github.com/user-attachments/assets/067b9e14-3eef-4937-b050-f3ad32de178c" />
