@@ -9,7 +9,7 @@ Tulemus: RASPBERRY Pi4 peale sai paigaldatud enda konfiguratsiooniga operatsioon
 Kirjeldus: SSH client masina peale paigaldati Termius ja läbi selle loodi SSH ühendus "Raspberry Pi4'ga"
 <br>
 Tulemus: Raspberry Pi4'le sai ligi läbi SSH kaudu ja saab jooksutada terminale käske
-## 3. Lsblk (Ülesanne 1)
+## 3. Lsblk Ülesanne 1
 <br>
 Kirjeldus: Kasutati käsku "lsblk", et leida kõik partitsioonid
 <br>
